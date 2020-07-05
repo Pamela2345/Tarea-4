@@ -1,6 +1,8 @@
 # Tarea-4
 Conclusión de la Tarea 4
-1. Crear un esquema de modulación BPSK para los bits presentados. Esto implica asignar una forma de onda sinusoidal normalizada (amplitud unitaria) para cada bit y luego una concatenación de todas estas formas de onda.\\
+#
+1. Crear un esquema de modulación BPSK para los bits presentados. Esto implica asignar una forma de onda sinusoidal normalizada (amplitud unitaria) para cada bit y luego una concatenación de todas estas formas de onda.
+##################################################################################33
 La forma de onda de la portadora se observa a continuación:
 <img src="https://github.com/Pamela2345/Tarea-4/blob/master/ondaportadora.png">
 Una gráfica de los primeros 5 bits modelados se observa a continuación:
@@ -14,12 +16,12 @@ La simulación de un canal ruidoso del tipo AWGN con una relación señal ruido 
 <img src="https://github.com/Pamela2345/Tarea-4/blob/master/SNR%3D-1.png">
 La simulación de un canal ruidoso del tipo AWGN con una relación señal ruido de 0 se observa en la siguiente imagen.
 <img src="https://github.com/Pamela2345/Tarea-4/blob/master/SNR%3D0.png">
-La simulación de un canal ruidoso del tipo AWGN con una relación señal ruido de -1 se observa en la siguiente imagen.
-<img src="https://github.com/Pamela2345/Tarea-4/blob/master/SNR%3D-1.png">
-La simulación de un canal ruidoso del tipo AWGN con una relación señal ruido de -2 se observa en la siguiente imagen.
-<img src="https://github.com/Pamela2345/Tarea-4/blob/master/SNR%3D-2.png">
-La simulación de un canal ruidoso del tipo AWGN con una relación señal ruido de -3 se observa en la siguiente imagen.
-<img src="https://github.com/Pamela2345/Tarea-4/blob/master/SNR%3D-3.png">
+La simulación de un canal ruidoso del tipo AWGN con una relación señal ruido de 1 se observa en la siguiente imagen.
+<img src="https://github.com/Pamela2345/Tarea-4/blob/master/SNR%3D1.png">
+La simulación de un canal ruidoso del tipo AWGN con una relación señal ruido de 2 se observa en la siguiente imagen.
+<img src="https://github.com/Pamela2345/Tarea-4/blob/master/SNR%3D2.png">
+La simulación de un canal ruidoso del tipo AWGN con una relación señal ruido de 3 se observa en la siguiente imagen.
+<img src="https://github.com/Pamela2345/Tarea-4/blob/master/SNR%3D3.png">
 A partir de las imágenes anteriores de observa que al aumentar el valor de SNR, se observa menos ruido en la señal.
 4. Graficar la densidad espectral de potencia de la señal con el método de Welch (SciPy), antes y después del canal ruidoso.
 La gráfica de la densidad espectral de potencia de la señal antes del canal ruidoso se observa a continuación.
