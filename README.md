@@ -8,6 +8,7 @@ y posteriormente la potencia promedio de la señal modulada, cuyo valor fue de:
 La simulación de un canal ruidoso del tipo AWGN con una relación señal ruido de -2 se observa en la siguiente imagen.
 <img src="https://github.com/Pamela2345/Tarea-4/blob/master/SNR%3D-2.png">
 La simulación de un canal ruidoso del tipo AWGN con una relación señal ruido de -1 se observa en la siguiente imagen.
+
 La simulación de un canal ruidoso del tipo AWGN con una relación señal ruido de 0 se observa en la siguiente imagen.
 La simulación de un canal ruidoso del tipo AWGN con una relación señal ruido de -1 se observa en la siguiente imagen.
 La simulación de un canal ruidoso del tipo AWGN con una relación señal ruido de -2 se observa en la siguiente imagen.
