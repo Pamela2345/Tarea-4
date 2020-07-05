@@ -4,10 +4,14 @@ Conclusión de la Tarea 4
 1. Crear un esquema de modulación BPSK para los bits presentados. Esto implica asignar una forma de onda sinusoidal normalizada (amplitud unitaria) para cada bit y luego una concatenación de todas estas formas de onda.
 #
 La forma de onda de la portadora se observa a continuación:
+#
 <img src="https://github.com/Pamela2345/Tarea-4/blob/master/ondaportadora.png">
+#
 Una gráfica de los primeros 5 bits modelados se observa a continuación:
 <img src="https://github.com/Pamela2345/Tarea-4/blob/master/Tx.png">
+#
 2. Calcular la potencia promedio de la señal modulada generada.
+#
 En esta sección se encontró la potencia promedio de la señal modulada, cuyo valor fue de: 0.49999999999999983
 3. Simular un canal ruidoso del tipo AWGN (ruido aditivo blanco gaussiano) con una relación señal a ruido (SNR) desde -2 hasta 3 dB.
 La simulación de un canal ruidoso del tipo AWGN con una relación señal ruido de -2 se observa en la siguiente imagen.
